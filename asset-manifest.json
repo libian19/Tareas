@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/https//libian19.github.io/Tareas/index.html/static/css/main.f6f286c5.css",
+    "main.js": "/https//libian19.github.io/Tareas/index.html/static/js/main.abce61a2.js",
+    "static/media/fcc_primary.svg": "/https//libian19.github.io/Tareas/index.html/static/media/fcc_primary.2847bc12544317f79647dc18d67a0930.svg",
+    "index.html": "/https//libian19.github.io/Tareas/index.html/index.html",
+    "main.f6f286c5.css.map": "/https//libian19.github.io/Tareas/index.html/static/css/main.f6f286c5.css.map",
+    "main.abce61a2.js.map": "/https//libian19.github.io/Tareas/index.html/static/js/main.abce61a2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f6f286c5.css",
+    "static/js/main.abce61a2.js"
+  ]
+}
